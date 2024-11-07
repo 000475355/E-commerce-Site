@@ -1,0 +1,22 @@
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #3085e0;
+    color: white;
+    font-size: 30px;
+  }
+  
+
+  .navbar-buttons {
+    display: flex;
+    gap: 1rem;
+    color: aliceblue;
+  }
+  
+  .navbar-links a:hover {
+    color: #ffdd57;
+  }
+  
